@@ -3,7 +3,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukimperinetti&show_icons=true&locale=en" alt="lukimperinetti" /></p>
 
-- 🌱 I’m currently learning **data sciences & machine learning**
+- 🌱 I’m currently learning **cyber security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lukimperinetti](https://github.com/lukimperinetti)
 
