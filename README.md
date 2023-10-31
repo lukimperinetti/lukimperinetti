@@ -3,7 +3,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukimperinetti&show_icons=true&locale=en" alt="lukimperinetti" /></p>
 
-- 🌱 I’m currently learning **cyber security**
+- 🌱 I’m currently learning **Unity 3D**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lukimperinetti](https://github.com/lukimperinetti)
 
