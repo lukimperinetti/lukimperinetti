@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luk Imperinetti</h1>
-<h3 align="center">A junior developer based at Montpellier in France</h3>
+<h3 align="center">An IT project manager based at Montpellier in France</h3>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukimperinetti&show_icons=true&locale=en" alt="lukimperinetti" /></p>
 
