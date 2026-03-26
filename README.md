@@ -40,13 +40,13 @@ I bridge the gap between technical teams and business stakeholders with a focus 
 ### 📊 Performance & Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukimperinetti&show_icons=true&locale=en&bg_color=ffffff&title_color=789675&text_color=555555&icon_color=789675&border_color=e4e4e4&border_radius=10" alt="Luk's Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=lukimperinetti&show_icons=true&locale=en&bg_color=ffffff&title_color=789675&text_color=555555&icon_color=789675&border_color=e4e4e4&border_radius=10" alt="Luk's Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukimperinetti&theme=neutral&background=ffffff&stroke=e4e4e4&ring=789675&fire=789675&currStreakLabel=789675&border_radius=10&sideNums=555555&sideLabels=555555&dates=555555" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukimperinetti&show_icons=true&locale=en&layout=compact&bg_color=ffffff&title_color=789675&text_color=555555&icon_color=789675&border_color=e4e4e4&border_radius=10" alt="Top Languages" height="180px" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lukimperinetti&theme=github-light&area=true&color=789675" width="100%" />
